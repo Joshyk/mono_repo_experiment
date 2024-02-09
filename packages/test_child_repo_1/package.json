@@ -1,0 +1,11 @@
+{
+  "name": "@sau-mono-repo/test_child_repo_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": "=18.19.0"
+  },
+  "engine-strict":true
+}

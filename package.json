@@ -1,0 +1,17 @@
+{
+  "name": "sau-mono-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": "=18.19.0"
+  },
+  "engine-strict": true,
+  "dependencies": {
+    "vue": "3.4.16"
+  }
+}
